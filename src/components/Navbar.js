@@ -4,7 +4,6 @@ export default function Navbar() {
   return (
     <div>
         <div class="topnav" id="myTopnav">
-
             <a href="#home" class="active">Inicio</a>
             <a href="#carrito">Carrito</a>
 
